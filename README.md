@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <FrontEnd Developer>
 --------------------
 
-Got a handful of cool projects you can go through. My code might just lead to world peace someday.
+Got a handful of cool projects you can go through.
 
 *   🧠  I'm learning Next.JS
 *   🤝  I'm open to collaborating on Open Source Projects
