@@ -15,13 +15,12 @@
 
 
 
-- **🔭 I’m currently working on creating my own API**  
+- **🔭 Currently working on creating my own API**  
   
 
-- **🌱 I’m currently learning NextJS and API development**  
+- **🌱 Learning NextJS and API development**  
   
 
-- **❓ Ask me about anything related to MERN stack and related technologies**  
 
 
 <br/>  
