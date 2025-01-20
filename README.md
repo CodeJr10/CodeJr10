@@ -18,7 +18,7 @@
 - **🔭 Currently working on creating my own API**  
   
 
-- **🌱 Learning NextJS and API development**  
+- **🌱 Learning NextJS and AWS**  
   
 
 
