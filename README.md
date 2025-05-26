@@ -64,8 +64,6 @@
 
 ### 🌐 Let's Connect
 
-*Built with ❤️ by CodeJr10*
-
 <!-- ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
