@@ -64,4 +64,5 @@
 ### 🌐 Let's Connect
 
 Feel free to connect with me on GitHub or LinkedIn!
+- 📫 Reach out to me at: <a href="crce.9754.ecsgmail.com">crce.9754.ecs@gmail.com</a>
 
