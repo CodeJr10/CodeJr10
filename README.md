@@ -48,8 +48,8 @@
 <br/>  
 
 ### 📊 GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=CodeJr10&theme=neon-dark&card_height=200)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeJr10&" alt="CodeJr10" &theme=neon-dark /></p>
 
 ---
 
