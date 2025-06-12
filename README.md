@@ -52,14 +52,9 @@
 </div>
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeJr10&show_icons=true&count_private=true&hide_border=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeJr10&layout=compact&hide_border=true&theme=radical" width="48%" />
-</p>
-
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=CodeJr10&theme=neon-dark&card_height=200" />
 </p>
