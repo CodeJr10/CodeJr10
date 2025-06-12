@@ -1,3 +1,6 @@
+![Header]("C:\Users\aadit\Dropbox\PC\Downloads\github-header-image.png")
+
+
 ## Hey 👋, I'm Aaditya Malap!  
   
 
