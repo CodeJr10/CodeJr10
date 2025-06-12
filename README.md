@@ -1,7 +1,8 @@
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <p align="center">
   <img src="github-header-image.png" alt="Header Image" width="100%" />
 </p>
-
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 ## Hey 👋, I'm Aaditya Malap!  
   
 
@@ -47,7 +48,7 @@
 
 <br/>  
 
-### 📊 GitHub Stats
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 [![GitHub Streak](https://streak-stats.demolab.com?user=CodeJr10&theme=neon-dark&card_height=200)](https://git.io/streak-stats)
 
 
