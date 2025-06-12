@@ -2,8 +2,7 @@
 <p align="center">
   <img src="github-header-image.png" alt="Header Image" width="100%" />
 </p>
-<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
-## Hey 👋, I'm Aaditya Malap!  
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35> Hey 👋, I'm Aaditya Malap!  
   
 
 <a href="https://github.com/CodeJr10" target="_blank">
@@ -49,7 +48,11 @@
 <br/>  
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=CodeJr10&theme=neon-dark&card_height=200)](https://git.io/streak-stats)
+</div>
 
 
 ---
