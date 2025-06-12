@@ -49,7 +49,7 @@
 
 ### 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeJr10&" alt="CodeJr10" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeJr10&" alt="CodeJr10" &theme=neon-dark /></p>
 
 ---
 
