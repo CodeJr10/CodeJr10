@@ -7,22 +7,11 @@
 <a href="https://linkedin.com/in/aaditya-malap" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  
 
-### Glad to see you here!  
-  
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVrbHdzd2d5eTdxc3hqYXV6ZW9rZnF0c3cxYXB3NmozZWtrMzZ5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hwvxuIKLEayDS/giphy.gif" alt="nnn00" width="480"/>
 
-
-
-
-- **🔭 Currently working on creating my own API**  
-  
-
-- **🌱 Learning NextJS and AWS**  
-  
-
-
-
+</p>
 <br/>  
 
 ## Languages and Tools  
@@ -58,10 +47,7 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeJr10&" alt="CodeJr10" /></p>
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVrbHdzd2d5eTdxc3hqYXV6ZW9rZnF0c3cxYXB3NmozZWtrMzZ5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hwvxuIKLEayDS/giphy.gif" alt="nnn00" width="480"/>
 
-</p>
 
 ---
 
