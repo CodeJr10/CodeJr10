@@ -64,9 +64,11 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" /> GitHub Stats
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" />
+  <span style="font-size: 28px; font-weight: bold; margin: 0 10px;">GitHub Stats</span>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </p>
+
 
 <p align="center"
   <img src="https://streak-stats.demolab.com?user=CodeJr10&theme=neon-dark&card_height=200" alt="GitHub Streak" />
