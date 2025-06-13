@@ -34,29 +34,14 @@
 </h2>
 
 <div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="30" title="React" />
-  <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="30" title="Bootstrap" />
-  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="30" title="CSS3" />
-  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="30" title="HTML5" />
-  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="30" title="JavaScript" />
-  <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="30" title="TypeScript" />
-  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="30" title="MySQL" />
-  <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="30" title="MongoDB" />
-  <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="30" title="Express.js" />
-  <img src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" height="30" title="Chart.js" />
-  <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="30" title="Linux" />
-  <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" height="30" title="Sass" />
-  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="30" title="Git" />
-  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="30" title="Node.js" />
-  <img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" height="30" title="Redux" />
-  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="30" title="Tailwind CSS" />
-  <img src="https://profilinator.rishav.dev/skills-assets/mui.png" height="30" title="Material UI" />
-  <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="30" title="Java" />
-  <img src="https://profilinator.rishav.dev/skills-assets/styled-components.png" height="30" title="Styled Components" />
-  <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="30" title="PostgreSQL" />
-  <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" height="30" title="Next.js" />
-  <img src="https://profilinator.rishav.dev/skills-assets/chakraui.png" height="30" title="Chakra UI" />
-  <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" height="30" title="Figma" />
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=authjs,bitbucket,clerk,express,fastapi,figma,git,html,js,jwt,materialui,mongodb,mysql,nextjs,nodejs,postgres,postman,react,redux,shadcn,socketio,supabase,tailwind,ts,vite"
+    />
+  </a>
+</p>
+
 </div>
 
 ---
