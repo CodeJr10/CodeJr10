@@ -7,7 +7,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" />
 
 <h1 align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35" />
+  <img src="lil-yachty-drake.gif" width="35" />
   Hey 👋, I'm <span style="color:#fca311;">Aaditya Malap</span>!
 </h1>
 
