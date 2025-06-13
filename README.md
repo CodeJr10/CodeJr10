@@ -28,9 +28,9 @@
 </p>
 
 ---
-<div align="center">
+
 🛠️ Languages and Tools 
-</div>
+
 <div align="center">
   <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="30" title="React" />
   <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="30" title="Bootstrap" />
@@ -66,14 +66,14 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </p>
 
-<p align="center">
+<p align="center"
   <img src="https://streak-stats.demolab.com?user=CodeJr10&theme=neon-dark&card_height=200" alt="GitHub Streak" />
 </p>
 
 ---
-<div align="center">
+
 🌐 Let's Connect
-</div>
+
 <p align="center">
   <b>📫 Reach me at:</b><br/>
   <a href="mailto:crce.9754.ecs@gmail.com">crce.9754.ecs@gmail.com</a>
