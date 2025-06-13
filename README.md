@@ -70,7 +70,7 @@
 </p>
 
 
-<p align="center"
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=CodeJr10&theme=neon-dark&card_height=200" alt="GitHub Streak" />
 </p>
 
