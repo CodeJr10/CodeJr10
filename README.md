@@ -37,7 +37,7 @@
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=authjs,bitbucket,clerk,express,fastapi,figma,git,html,js,jwt,materialui,mongodb,mysql,nextjs,nodejs,postgres,postman,react,redux,shadcn,socketio,supabase,tailwind,ts,vite"
+      src="https://go-skill-icons.vercel.app/api/icons?i=authjs,bitbucket,clerk,express,fastapi,figma,git,html,js,jwt,materialui,mongodb,mysql,nextjs,nodejs,postgres,postman,react,redux,shadcn,socketio,supabase,tailwind,ts,vite,reactquery &perline=13"
     />
   </a>
 </p>
