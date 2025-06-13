@@ -6,10 +6,10 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" />
 
-<h2 align="center">
+<h1 align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35" />
   Hey 👋, I'm <span style="color:#fca311;">Aaditya Malap</span>!
-</h2>
+</h1>
 
 <p align="center">
   <a href="https://github.com/CodeJr10" target="_blank">
