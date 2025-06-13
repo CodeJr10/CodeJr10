@@ -8,7 +8,6 @@
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/CodeJr10/CodeJr10/main/lil-yachty-drake.gif" width="35" />
-  Hey 👋, I'm <span style="color:#fca311;">Aaditya Malap</span>!
 </h1>
 
 <p align="center">
