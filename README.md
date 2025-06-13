@@ -28,8 +28,10 @@
 </p>
 
 ---
-
+<h2>
+  
 🛠️ Languages and Tools 
+</h2>
 
 <div align="center">
   <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="30" title="React" />
@@ -71,8 +73,10 @@
 </p>
 
 ---
-
+<h2>
+  
 🌐 Let's Connect
+</h2>
 
 <p align="center">
   <b>📫 Reach me at:</b><br/>
