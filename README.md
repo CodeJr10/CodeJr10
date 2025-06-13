@@ -34,13 +34,15 @@
 </h2>
 
 <div align="center">
-<p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=authjs,bitbucket,clerk,express,fastapi,figma,git,html,js,jwt,materialui,mongodb,mysql,nextjs,nodejs,postgres,postman,react,redux,shadcn,socketio,supabase,tailwind,ts,vite,reactquery"
-    />
-  </a>
-</p>
+  <p align="center">
+    <a href="https://go-skill-icons.vercel.app/">
+      <img
+        src="https://go-skill-icons.vercel.app/api/icons?i=js,html,tailwind,ts,nextjs,mongodb,mysql,nodejs,postgres,authjs,bitbucket,clerk,express,fastapi,figma,git,jwt,materialui,postman,react,redux,shadcn,socketio,supabase,vite,reactquery,stripe,materialui&perline=14"
+      />
+    </a>
+  </p>
+</div>
+
 
 </div>
 
