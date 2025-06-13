@@ -28,8 +28,9 @@
 </p>
 
 ---
-
-## 🛠️ Languages and Tools  
+<p align="center">
+## 🛠️ Languages and Tools 
+</p>
 <div align="center">
   <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="30" title="React" />
   <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="30" title="Bootstrap" />
@@ -70,9 +71,9 @@
 </p>
 
 ---
-
+<p align="center">
 ## 🌐 Let's Connect
-
+</p>
 <p align="center">
   <b>📫 Reach me at:</b><br/>
   <a href="mailto:crce.9754.ecs@gmail.com">crce.9754.ecs@gmail.com</a>
