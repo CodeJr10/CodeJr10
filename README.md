@@ -6,10 +6,6 @@
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/CodeJr10/CodeJr10/main/lil-yachty-drake.gif" width="35" />
-</h1>
-
 <p align="center">
   <a href="https://github.com/CodeJr10" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
@@ -63,7 +59,9 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 <h2>
   
-🌐 Let's Connect
+🌐 Let's Connect<h1 align="center">
+  <img src="https://raw.githubusercontent.com/CodeJr10/CodeJr10/main/lil-yachty-drake.gif" width="35" />
+</h1>
 </h2>
 
 <p align="center">
