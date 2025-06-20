@@ -52,9 +52,9 @@
 
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeJr10&theme=neon-dark&card_height=200" alt="GitHub Streak" />
-
+  <img src="https://streak-stats.demolab.com/?user=CodeJr10&theme=neon-dark&card_height=200" alt="GitHub Streak" />
 </p>
+
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 <h2>
