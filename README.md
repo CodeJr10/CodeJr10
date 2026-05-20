@@ -65,6 +65,6 @@
 </h2>
 
 <p align="center">
-  <b>📫 Reach me at:</b><br/>
+  <b>📫 Reach me at :</b><br/>
   <a href="mailto:crce.9754.ecs@gmail.com">crce.9754.ecs@gmail.com</a>
 </p>
